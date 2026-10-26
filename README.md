@@ -1,14 +1,14 @@
-##F1 Stack Simulator
+## F1 Stack Simulator
 
 Hi! Welcome to my F1 Stack Simulator project!
 
 This repository contains the starter files for our Flask Stack Simulator activity. I'm using this project to explore how HTML, CSS, Python, Flask, and Jinja work together in a web application. This is also a chance for me to get more familiar with the project structure and how the stack simulator will work during our class demonstration.
 
-##About This Activity
+## About This Activity
 
 The goal of this activity is to get familiar with the project files and understand how the simulator is set up before the demonstration. The starter project is still unfinished, so I'll follow the given instructions and work on the TODOs during the proper discussion.
 
-##Student Information
+## Student Information
 
 Name: Elijan, Mary Ann O.
 
